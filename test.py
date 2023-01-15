@@ -1,5 +1,5 @@
 print("Line1")
-print("This is not ok")
+print("this the merging line conflict")
 print("Line3")
 print("Line4")
 print("Line5")
